@@ -65,7 +65,9 @@ If you need access to the Firebase configuration files or have any questions reg
 **Email:** sarttra.pra@student.mahidol.ac.th / burubenkyou@gmail.com
 
 ---
-
+## Prototype Testing
+If you want to access real application please download .apk file from the URL below:
+https://drive.google.com/drive/folders/1IAjv8EbXqm4X7zvwdN-WRFCkNJDx9yHN?usp=sharing
 ## 💜 License
 
 This project is intended for educational and demonstration purposes only.
